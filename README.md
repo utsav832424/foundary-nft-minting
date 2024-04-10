@@ -10,5 +10,6 @@ This Project contains the smart contracts for Basic NFT and SVG NFT deployed on 
 - `MoodNft.sol`: This contract defines the SVG NFT contract to storing SVG data on blockchain along with token metadata.
 
 ## Deployment
-- You can interact with my Contract on **[https://sepolia.etherscan.io]**
-- Contract Address on sepolia : **0x3696851C1445a8389ceFeb193005406341a95761**
+- Basic NFT Contract Address: **0x3696851C1445a8389ceFeb193005406341a95761**
+- SVG NFT Contract Address: **0xce3816DEBAD34f0a8c6c491890069D821f6e26a5**
+- Sepolia Testnet Explorer: **[https://sepolia.etherscan.io]**
